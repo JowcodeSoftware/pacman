@@ -2,4 +2,4 @@
 ---
 [GamePacman]()
 ---
-<img src="ghost.png">
+<img src="./img/ghost.png">
